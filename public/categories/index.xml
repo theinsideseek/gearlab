@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Gear Lab</title>
+        <link>https://localhost:1313/categories/</link>
+        <description>Recent content in Categories on Gear Lab</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Car Interior</title>
+            <link>https://localhost:1313/categories/car-interior/</link>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>https://localhost:1313/categories/car-interior/</guid>
+            <description></description>
+        </item><item>
+            <title>EDC Tactical</title>
+            <link>https://localhost:1313/categories/edc-tactical/</link>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>https://localhost:1313/categories/edc-tactical/</guid>
+            <description></description>
+        </item><item>
+            <title>Ergonomic</title>
+            <link>https://localhost:1313/categories/ergonomic/</link>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>https://localhost:1313/categories/ergonomic/</guid>
+            <description></description>
+        </item><item>
+            <title>Pool Cleaners</title>
+            <link>https://localhost:1313/categories/pool-cleaners/</link>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>https://localhost:1313/categories/pool-cleaners/</guid>
+            <description></description>
+        </item><item>
+            <title>Portable Power</title>
+            <link>https://localhost:1313/categories/portable-power/</link>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>https://localhost:1313/categories/portable-power/</guid>
+            <description></description>
+        </item><item>
+            <title>Red Light Therapy</title>
+            <link>https://localhost:1313/categories/red-light-therapy/</link>
+            <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+            <guid>https://localhost:1313/categories/red-light-therapy/</guid>
+            <description></description>
+        </item></channel>
+</rss>

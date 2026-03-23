@@ -1,0 +1,12 @@
+footer.site-footer {
+    text-align: center;
+
+    &::before {
+        display: none;
+    }
+
+    .copyright {
+        margin: 0;
+        color: var(--body-text-color);
+    }
+}
