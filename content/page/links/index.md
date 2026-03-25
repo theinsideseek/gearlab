@@ -1,10 +1,6 @@
 ---
 title: Links
-menu:
-  main:
-    weight: -50
-    params:
-      icon: link
+description: Reference links for affiliate disclosure and compliance guidance.
 links:
   - title: Amazon Associates Program
     description: Affiliate program overview and operating agreement.

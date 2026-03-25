@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+description: Privacy policy and affiliate disclosure for Gear Lab.
 date: 2026-03-23
 lastmod: 2026-03-23
 slug: privacy-policy
@@ -10,7 +11,7 @@ menu:
     name: Privacy Policy
     weight: -40
     params:
-      icon: tag
+      icon: shield-lock
 ---
 
 This Privacy Policy explains how Gear Lab collects, uses, shares, and protects information when you visit this site.

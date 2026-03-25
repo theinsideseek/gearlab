@@ -1,4 +1,6 @@
 ---
+title: Home
+description: Gear reviews, comparisons, and buying guides.
 menu:
   main:
     name: Home

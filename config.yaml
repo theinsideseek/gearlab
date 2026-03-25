@@ -1,9 +1,15 @@
-baseURL: "https://localhost:1313/"
+baseURL: "https://gearlab-8tv.pages.dev/"
 languageCode: "en-us"
 title: "Gear Lab"
 theme: "hugo-theme-stack"
 defaultContentLanguage: "en"
 hasCJKLanguage: false
+enableRobotsTXT: true
+
+sitemap:
+  changefreq: "weekly"
+  filename: "sitemap.xml"
+  priority: 0.5
 
 pagination:
   pagerSize: 8
@@ -57,12 +63,29 @@ related:
       weight: 200
 
 params:
+  description: "Gear Reviews, comparisons, and buying guides"
+  keywords:
+    - "gear reviews"
+    - "buying guide"
+    - "product comparisons"
+    - "best gadgets 2026"
+    - "portable power stations"
+    - "ergonomic office gear"
+    - "pool cleaners"
+    - "edc tactical essentials"
+    - "car interior accessories"
+    - "red light therapy panels"
+  author:
+    name: "Gear Lab"
+  seo:
+    logo: "img/avatar.png"
   mainSections:
     - "portable-power"
     - "ergonomic"
     - "pool-cleaners"
     - "edc-tactical"
     - "car-interior"
+    - "smart-home-devices"
     - "red-light-therapy"
   rssFullContent: true
   favicon: "img/avatar.png"
@@ -73,7 +96,7 @@ params:
 
   sidebar:
     emoji: "🔧"
-    subtitle: "Gear reviews, comparisons, and buying guides."
+    subtitle: "Reviews, comparisons, and buying guides"
     avatar: "img/avatar.png"
 
   article:
@@ -118,13 +141,27 @@ params:
 
 menu:
   social:
-    - identifier: "github"
-      name: "GitHub"
-      url: "https://github.com"
+    - identifier: "pinterest"
+      name: "Pinterest"
+      url: "https://www.pinterest.com"
+      weight: 10
       params:
-        icon: "brand-github"
-    - identifier: "twitter"
-      name: "Twitter"
-      url: "https://twitter.com"
+        icon: "brand-pinterest"
+    - identifier: "instagram"
+      name: "Instagram"
+      url: "https://www.instagram.com"
+      weight: 10
       params:
-        icon: "brand-twitter"
+        icon: "brand-instagram"
+    - identifier: "tiktok"
+      name: "TikTok"
+      url: "https://www.tiktok.com"
+      weight: 10
+      params:
+        icon: "brand-tiktok"
+    - identifier: "rss"
+      name: "RSS"
+      url: "/index.xml"
+      weight: 40
+      params:
+        icon: "rss"

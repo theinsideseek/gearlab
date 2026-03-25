@@ -1,4 +1,4 @@
 ---
 title: Red Light Therapy
-description: At-home red and near-infrared wellness devices.
+description: Red light therapy panel guides for at-home wellness routines, setup, and safe usage basics.
 ---

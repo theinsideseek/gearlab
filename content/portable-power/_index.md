@@ -1,4 +1,4 @@
 ---
 title: Portable Power
-description: Power stations, solar generators, and battery backups.
+description: Portable power station and solar generator guides for camping, outages, and home backup use.
 ---

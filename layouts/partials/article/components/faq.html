@@ -1,0 +1,19 @@
+{{- with .Params.faq -}}
+<section class="article-faq">
+    <h2>Frequently Asked Questions</h2>
+    <div class="article-faq-list">
+        {{- range . -}}
+            {{- $question := .question | default "" -}}
+            {{- $answer := .answer | default "" -}}
+            {{- if and $question $answer -}}
+            <details class="article-faq-item">
+                <summary>{{ $question }}</summary>
+                <div class="article-faq-answer">
+                    {{ $answer | markdownify }}
+                </div>
+            </details>
+            {{- end -}}
+        {{- end -}}
+    </div>
+</section>
+{{- end -}}

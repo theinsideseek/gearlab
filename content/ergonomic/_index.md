@@ -1,4 +1,4 @@
 ---
 title: Ergonomic
-description: Ergonomic tools and workspace comfort upgrades.
+description: Ergonomic office setup guides for chairs, desks, keyboards, and posture-friendly work habits.
 ---

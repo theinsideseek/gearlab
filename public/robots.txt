@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /*?keyword=
+Disallow: /page/
+Disallow: /tags/page/
+Disallow: /categories/page/
+
+Sitemap: https://gearlab-8tv.pages.dev/sitemap.xml

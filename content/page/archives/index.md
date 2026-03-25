@@ -1,5 +1,6 @@
 ---
 title: Archives
+description: Browse all Gear Lab articles by publish date.
 date: 2026-03-23
 layout: archives
 slug: archives

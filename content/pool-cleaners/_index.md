@@ -1,4 +1,4 @@
 ---
 title: Pool Cleaners
-description: Robotic, suction, and pressure pool cleaning systems.
+description: Pool cleaner guides for robotic pool cleaners, pool vacuums, and seasonal maintenance.
 ---
